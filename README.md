@@ -16,16 +16,18 @@ doppler (Simulation of the doppler effect, particularized in the context of soun
 
 ## Skills
 
-<img src="icons/c.svg" width="50" alt="Bash"/>
-<img src="icons/python-dark.svg" width="50" alt="Bash"/>
-<img src="icons/php-dark.svg" width="50" alt="Bash"/>
-<img src="icons/javascript.svg" width="50" alt="Bash"/>
-<img src="icons/linux-dark.svg" width="50" alt="Bash"/>
-<img src="icons/bash-dark.svg" width="50" alt="Bash"/>
-<img src="icons/clion-dark.svg" width="50" alt="Bash"/>
-<img src="icons/pycharm-dark.svg" width="50" alt="Bash"/>
-<img src="icons/vscode-dark.svg" width="50" alt="Bash"/>
-<img src="icons/illustrator.svg" width="50" alt="Bash"/>
-<img src="icons/photoshop.svg" width="50" alt="Bash"/>
-<img src="icons/github-dark.svg" width="50" alt="Bash"/>
-<img src="icons/github-actions-dark.svg" width="50" alt="Bash"/>
+<p align="middle">
+    <img src="icons/c.svg" width="50" alt="C Programming Language"/>
+    <img src="icons/python-dark.svg" width="50" alt="Python Programming Language"/>
+    <img src="icons/php-dark.svg" width="50" alt="PHP Programming Language"/>
+    <img src="icons/javascript.svg" width="50" alt="Javascript Programming Language"/>
+    <img src="icons/bash-dark.svg" width="50" alt="Bash Scripting Language"/>
+    <img src="icons/linux-dark.svg" width="50" alt="Linux-Based Operating Systems"/>
+    <img src="icons/clion-dark.svg" width="50" alt="CLion Integrated Development Environment"/>
+    <img src="icons/pycharm-dark.svg" width="50" alt="PyCharm Integrated Development Environment"/>
+    <img src="icons/vscode-dark.svg" width="50" alt="VSCode Integrated Development Environment"/>
+    <img src="icons/illustrator.svg" width="50" alt="Illustrator Software"/>
+    <img src="icons/photoshop.svg" width="50" alt="Photoshop Software"/>
+    <img src="icons/github-dark.svg" width="50" alt="GitHub Project Management"/>
+    <img src="icons/github-actions-dark.svg" width="50" alt="GitHub Actions Continuous Integration"/>
+</p>

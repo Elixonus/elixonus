@@ -2,7 +2,7 @@
 
 genelink (linkage optimizer utilizing genetic and kinematics algorithm) - planned
 
-kinematics (kinematics solver + mechanism renderer) - ANVIL Software - in development
+kinematics (kinematics solver + mechanism renderer) - in development
 
 dynamics (Dynamic truss simulator with mass, spring and damper primitives.) - ANVIL Software - complete
 

@@ -29,5 +29,4 @@ doppler (Simulation of the doppler effect, particularized in the context of soun
     <img src="icons/illustrator.svg" width="50" alt="Illustrator Software"/>
     <img src="icons/photoshop.svg" width="50" alt="Photoshop Software"/>
     <img src="icons/github-dark.svg" width="50" alt="GitHub Project Management"/>
-    <img src="icons/github-actions-dark.svg" width="50" alt="GitHub Actions Continuous Integration"/>
 </p>

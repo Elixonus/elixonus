@@ -1,6 +1,6 @@
 ## Projects
 
-genelink (linkage optimizer utilizing genetic and kinematics algorithm) - planned
+genelink (linkage optimizer utilizing genetic and kinematics algorithm) - in development
 
 kinematics (kinematics solver + mechanism renderer) - complete
 

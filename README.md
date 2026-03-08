@@ -1,6 +1,6 @@
 ## Projects
 
-evolution (linkage optimizer utilizing genetic and kinematics algorithm) - in development
+evolution (linkage optimizer utilizing genetic and kinematics algorithm) - on hold
 
 kinematics (kinematics solver + mechanism renderer) - complete
 

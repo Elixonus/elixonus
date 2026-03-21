@@ -1,7 +1,5 @@
 ## Projects
 
-evolution (linkage optimizer utilizing genetic and kinematics algorithm) - in development
-
 kinematics (kinematics solver + mechanism renderer) - complete
 
 dynamics (Dynamic truss simulator with mass, spring and damper primitives.) - ANVIL Software - complete
@@ -11,6 +9,8 @@ optics (Lightweight real-time ray optics simulator that implements the physics p
 fields (Electric field line visualization simulation of point charges and finite line charges.) - complete
 
 doppler (Simulation of the doppler effect, particularized in the context of sound waves and explored through scenarios where a wave emitting source and wave detecting observer move with a user controllable position, velocity or acceleration.) - complete
+
+evolution (linkage optimizer utilizing genetic and kinematics algorithm) - complete/abandoned
 
 ...
 

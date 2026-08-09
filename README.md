@@ -1,10 +1,10 @@
 ## Private Projects
 
-linkagekinematics (kinematics solver + mechanism renderer) - complete
-
 trussdynamics (Dynamic truss simulator with mass, spring and damper primitives.) - complete
 
-evolution (linkage optimizer utilizing genetic and kinematics algorithm) - complete/abandoned
+linkagekinematics (kinematics solver + mechanism renderer) - complete
+
+linkageevolution (linkage optimizer utilizing genetic and kinematics algorithm) - complete/abandoned
 
 ## Skills
 

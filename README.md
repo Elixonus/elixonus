@@ -2,7 +2,7 @@
 
 kinematics (kinematics solver + mechanism renderer) - complete
 
-dynamics (Dynamic truss simulator with mass, spring and damper primitives.) - ANVIL Software - complete
+trussdynamics (Dynamic truss simulator with mass, spring and damper primitives.) - complete
 
 optics (Lightweight real-time ray optics simulator that implements the physics phenomena of reflection and refraction.) - complete
 

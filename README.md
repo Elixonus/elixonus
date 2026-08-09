@@ -1,18 +1,10 @@
-## Projects
+## Private Projects
 
-kinematics (kinematics solver + mechanism renderer) - complete
+linkagekinematics (kinematics solver + mechanism renderer) - complete
 
 trussdynamics (Dynamic truss simulator with mass, spring and damper primitives.) - complete
 
-optics (Lightweight real-time ray optics simulator that implements the physics phenomena of reflection and refraction.) - complete
-
-fields (Electric field line visualization simulation of point charges and finite line charges.) - complete
-
-doppler (Simulation of the doppler effect, particularized in the context of sound waves and explored through scenarios where a wave emitting source and wave detecting observer move with a user controllable position, velocity or acceleration.) - complete
-
 evolution (linkage optimizer utilizing genetic and kinematics algorithm) - complete/abandoned
-
-...
 
 ## Skills
 

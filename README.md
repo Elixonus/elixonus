@@ -1,4 +1,4 @@
-## Private Projects
+## Closed Source Projects
 
 ### TRUSSDYNAMICS
 

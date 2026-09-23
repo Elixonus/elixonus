@@ -2,11 +2,15 @@
 
 ### TRUSSDYNAMICS
 
+[TRUSSDYNAMICS montage video YouTube link](https://youtu.be/J012MgZXxHw)
+
 Dynamic truss simulator with mass, spring and damper primitives. - complete
 
-![trussdynamics cover](images/trussdynamics.png)
+![TRUSSDYNAMICS cover](images/trussdynamics.png)
 
 ### LINKAGEKINEMATICS
+
+[LINKAGEKINEMATICS example mechanism video YouTube link](https://youtu.be/3t7H-ny8AZk)
 
 kinematics solver + mechanism renderer - complete
 
